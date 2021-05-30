@@ -1,0 +1,3 @@
+first fortune
+second fortune
+third fortune
