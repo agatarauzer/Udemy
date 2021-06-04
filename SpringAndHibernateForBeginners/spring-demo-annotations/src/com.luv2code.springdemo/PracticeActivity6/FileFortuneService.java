@@ -22,7 +22,6 @@ public class FileFortuneService implements FortuneService {
 	
 	@Override
 	public String getFortune() {
-		writeLinesIntoFile();
 		return fortunes.get(new Random().nextInt(fortunes.size()));
 	}
 
