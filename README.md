@@ -4,8 +4,10 @@
 
 Completed courses:
 
-1. **Spring & Hibernate for Beginners (includes Spring Boot)** by Chad Darby.
-  Level: beginner.
+1. **Spring & Hibernate for Beginners (includes Spring Boot)** by Chad Darby
+
+    [Certificate](https://ude.my/UC-5df5e770-59a6-4612-9092-e725f6cbf697)
+  
 
 
 
@@ -15,7 +17,7 @@ Completed courses:
 
 1. #### Spring & Hibernate for Beginners (includes Spring Boot)
 
-   Level: beginner / 41 hours of videos
+   Level: beginner / 41,5 hours of videos
    
    - Spring basis: 
         - Inversion of Control
