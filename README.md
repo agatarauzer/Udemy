@@ -8,7 +8,11 @@ Completed courses:
 
     [Certificate](https://ude.my/UC-5df5e770-59a6-4612-9092-e725f6cbf697)
   
+In progress:
 
+2. **IntelliJ IDEA Tricks to Boost Productivity for Java Devs** by Tao W., James Lee
+
+3. **Groovy Programming Fundamentals for Java Developers** by Matt Speake
 
 
 ---
@@ -68,6 +72,33 @@ Completed courses:
           - Application Properties
           - REST CRUD API with JPA / Spring Data JPA / Spring Data REST
           - Thymeleaf
-          
-   
-   
+ 
+ 
+2. #### IntelliJ IDEA Tricks to Boost Productivity for Java Devs
+
+    Level: beginner / 1,5 hours of videos
+    
+    - Text Navigation
+    - Editing and Working with Code
+    - Code Navigation
+    - Code Selection
+    - Code Completion
+    - Code Generation
+    - Version Control
+    - Code Style
+
+3. #### Groovy Programming Fundamentals for Java Developers
+
+    Level: beginner / 2,5 hours of videos
+    
+    - Set up: 
+        - Creating and Debugging a Groovy project in IDEA 
+        - Installing Groovy, tool set, Groovy console
+    - Groovy Operators:
+        - Null-Safe Dereference Operator, Elvis Operator, Spaceship Operator, Spread Operator, Range Operator
+    - Groovy Strings:
+        - String Interpolation, Heredocs, Regular Expressions
+    - Collections in Groovy 
+    - Groovy Language Features
+       
+
