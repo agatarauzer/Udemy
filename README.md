@@ -7,12 +7,16 @@ Completed courses:
 1. **Spring & Hibernate for Beginners (includes Spring Boot)** by Chad Darby
 
     [Certificate](https://ude.my/UC-5df5e770-59a6-4612-9092-e725f6cbf697)
+    
+2. **IntelliJ IDEA Tricks to Boost Productivity for Java Devs** by Tao W., James Lee
+
+    [Certificate](https://www.udemy.com/certificate/UC-4da140ed-28f2-42ab-b265-c0c5263dac65/)
   
 In progress:
 
-2. **IntelliJ IDEA Tricks to Boost Productivity for Java Devs** by Tao W., James Lee
+1. **Groovy Programming Fundamentals for Java Developers** by Matt Speake
 
-3. **Groovy Programming Fundamentals for Java Developers** by Matt Speake
+2. **GIT od podstaw dla każdego** by Adrian Szuszkiewicz
 
 
 ---
